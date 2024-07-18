@@ -16,4 +16,4 @@
 
 ## Créditos do projeto
 
-- 
+- Rocketseat
